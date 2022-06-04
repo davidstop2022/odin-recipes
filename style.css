@@ -1,0 +1,16 @@
+* {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1,
+h2 {
+    color: rgb(240, 71, 240);
+    text-align: center;
+    font-size: 32px;
+
+}
+.titleimage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
